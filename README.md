@@ -1,4 +1,7 @@
 # Retro-webdesign
+The following project was created for getting used to different javascript features and try hands on practise at styling websites.
+An amazing creative web design for your portfolio project .
+Frontend portfolio project website using html,css,javascript,locomotive.
 A HTML,CSS,Js website taht has a retro based theme and makes use of various open-source libraries like GSAP  and Locomotive to make the design more attractivbe and for a better user experience. The Website has animations , transitions and various images.and 
 FYI
 This is not the product of my imagination, i have barely tried making a website designa fter looking at the interactive website as a challenge and i am happy that i was able to make it myself.
